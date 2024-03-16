@@ -1,0 +1,15 @@
+.odds{
+    background-color: #ff80d5;
+    font-family:Verdana, "DejaVu Sans", sans-serif
+}
+.odds.extension,.l4.extension{
+    font-size: 24px;
+}
+#unique{
+    color:blue;
+    font-size: 36px;
+}
+.l4{
+    background-color:#00e673;
+    font-weight: bold;
+}
